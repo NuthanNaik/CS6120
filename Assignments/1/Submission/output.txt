@@ -1,0 +1,10 @@
+solution is feasible for LOS
+Antenna A height for LOS = 5.7947
+Antenna B height for LOS = 10.7947
+GAP for each building 
+-4.4073 -2.4473 -0.1472 0.0000 
+solution is feasible for nearLOS
+Antenna A height for NLOS = 4.5298
+Antenna B height for NLOS = 9.5298
+GAP for each building 
+-4.2715 -2.6315 -0.4314 0.0000 
