@@ -1,0 +1,124 @@
+Statistics table for band 5 and channel number 36
+
+statisticsTable =
+
+  113×3 table
+
+                                             AP           STA           STA1   
+                                         __________    __________    __________
+
+    ActiveOperationInFreq                         1             1             1
+    AppTxAC_BE                                 8334          8334          8334
+    AppTxAC_BK                                    0             0             0
+    AppTxAC_VI                                    0             0             0
+    AppTxAC_VO                                    0             0             0
+    AppTxBytes                           1.2501e+07    1.2501e+07    1.2501e+07
+    AppRxAC_BE                                 1088             0           577
+    AppRxAC_BK                                    0             0             0
+    AppRxAC_VI                                    0             0             0
+    AppRxAC_VO                                    0             0             0
+    AppRxBytes                            1.632e+06             0     8.655e+05
+    AppTxOverflow                              7504          7485          7583
+    AppAvgPacketLatency                  3.5834e+05             0    3.3298e+05
+    AppAvgPacketLatencyAC_BE             3.5834e+05             0    3.3298e+05
+    AppAvgPacketLatencyAC_BK                      0             0             0
+    AppAvgPacketLatencyAC_VI                      0             0             0
+    AppAvgPacketLatencyAC_VO                      0             0             0
+    MACInternalCollisionsAC_BE                    0             0             0
+    MACInternalCollisionsAC_BK                    0             0             0
+    MACInternalCollisionsAC_VI                    0             0             0
+    MACInternalCollisionsAC_VO                    0             0             0
+    MACBackoffAC_BE                            5148          5103          5130
+    MACBackoffAC_BK                             594           639           666
+    MACBackoffAC_VI                            1800          2106          1710
+    MACBackoffAC_VO                             999           891           783
+    MACDataTx                                   629           611           549
+    MACDataTxAC_BE                              629           611           549
+    MACDataTxAC_BK                                0             0             0
+    MACDataTxAC_VI                                0             0             0
+    MACDataTxAC_VO                                0             0             0
+    MACAggTxAC_BE                                71            68            61
+    MACAggTxAC_BK                                 0             0             0
+    MACAggTxAC_VI                                 0             0             0
+    MACAggTxAC_VO                                 0             0             0
+    MACRetries                                   52            18            45
+    MACTxRetriesAC_BE                            52            18            45
+    MACTxRetriesAC_BK                             0             0             0
+    MACTxRetriesAC_VI                             0             0             0
+    MACTxRetriesAC_VO                             0             0             0
+    MACAckTx                                      0             0             1
+    MACBATx                                     121             0            66
+    MACRTSTx                                      0             0             0
+    MACCTSTx                                      0             0             0
+    MACDataTxBytes                        8.655e+05     8.895e+05     7.425e+05
+    MACDataRxBytes                        1.632e+06             0     8.655e+05
+    MACControlTxBytes                          3872             0          2126
+    MACControlRxBytes                          2126          2112          1760
+    MACTxQueueOverflow                            0             0             0
+    MACTxFails                                    0             0             0
+    MACRx                                      1155          1294          1282
+    MACDataRx                                  1088             0           577
+    MACDataRxAC_BE                             1088             0           577
+    MACDataRxAC_BK                                0             0             0
+    MACDataRxAC_VI                                0             0             0
+    MACDataRxAC_VO                                0             0             0
+    MACAggRxAC_BE                               121           124           132
+    MACAggRxAC_BK                                 0             0             0
+    MACAggRxAC_VI                                 0             0             0
+    MACAggRxAC_VO                                 0             0             0
+    MACAggRx                                    121           124           132
+    MACDuplicateAMPDURx                           0             0             0
+    MACNonHTRx                                   67           188           121
+    MACHTRx                                       0             0             0
+    MACVHTRx                                      0             0             0
+    MACHESURx                                   121           124           132
+    MACHEEXTSURx                                  0             0             0
+    MACHEMURx                                     0             0             0
+    MACRxDrop                                     0             0            16
+    MACCRCFailures                                0             0            16
+    MACAckRx                                      1             0             0
+    MACRTSRx                                      0             0             0
+    MACCTSRx                                      0             0             0
+    MACBARx                                      66            66            55
+    MACRespErrors                                 0             0             0
+    MACNonRespFrames                              0             0             0
+    MACOthersFramesInWaitForResp                  0             2             1
+    IdleStateTime                                 0             0             0
+    ContendStateTime                          13429         13369         13429
+    SendingDataStateTime                 3.5707e+05    3.4678e+05    3.0648e+05
+    WaitForRxStateTime                       4188.1        4080.1        3540.1
+    EIFSStateTime                                 0             0             0
+    RxStateTime                          6.2477e+05    6.3522e+05      6.76e+05
+    MACThroughput                            6.9243        7.1163        5.9402
+    MACThroughputAC_BE                       6.9243        7.1163        5.9402
+    MACThroughputAC_BK                            0             0             0
+    MACThroughputAC_VI                            0             0             0
+    MACThroughputAC_VO                            0             0             0
+    MACAverageTimePerFrame               3.2789e+05    3.2354e+05    3.8881e+05
+    MACTxSuccess                                577           593           495
+    PacketLossRatio                        0.082671       0.02946      0.098361
+    MACMaxQueueLengthAC_BE                      256           256           256
+    MACMaxQueueLengthAC_BK                        0             0             0
+    MACMaxQueueLengthAC_VI                        0             0             0
+    MACMaxQueueLengthAC_VO                        0             0             0
+    MACDuplicateRxAC_BE                           0             0             0
+    MACDuplicateRxAC_BK                           0             0             0
+    MACDuplicateRxAC_VI                           0             0             0
+    MACDuplicateRxAC_VO                           0             0             0
+    MACRTSSuccess                                 0             0             0
+    MACRecentFrameStatusTimestamp        9.9933e+05     9.941e+05    9.8887e+05
+    MACNumBasicNavUpdates                         0           124            65
+    PhyNumTransmissions                         192            68           127
+    PhyTxBytes                           9.7002e+05     9.385e+05    8.3157e+05
+    PhyTxTime                            3.6239e+05    3.4678e+05    3.0942e+05
+    EnergyDetectionsLessThanED                    0             0             0
+    TotalRxInterferenceTime                    5108         20432         10216
+    RxTriggersWhilePrevRxIsInProgress             1             4             2
+    RxTriggersWhileTxInProgress                   6             3             5
+    PhyPreambleDecodeFailures                     0             0             0
+    PhyHeaderDecodeFailures                       0             0             0
+    PhyRx                                       188           312           253
+    PhyRxDrop                                     7             7             7
+    PhyRxBytes                           1.6733e+06    1.7048e+06    1.8117e+06
+
+Timetaken for simulation = 28.118174 seconds
